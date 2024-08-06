@@ -24,7 +24,3 @@ public class MainClass {
           
 
   
-           
-        item.quality = Math.max(0, item.quality - amount);
-    }
-}
